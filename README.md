@@ -9,3 +9,6 @@ Download and Unzip the project folder and copy it.
 5.Click on "Start" button in front of apache, mysql, filezilla.                                
 
 
+# Contributors
+
+Rajkaran Preet Singh- RA1711003010801                                                          Pranav Sharma -RA1711003010781
