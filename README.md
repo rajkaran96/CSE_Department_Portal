@@ -6,8 +6,7 @@ This is the CSE Department portal for students and Teachers of CSE branch
 Download and Unzip the project folder and copy it.                                            
 3.Go to C drive--> xampp--> htdocs--> paste the project folder                                
 4.Run xampp.                                                                                  
-5.Click on "Start" button in front of apache, mysql, filezilla.  
-
+5.Click on "Start" button in front of apache, mysql, filezilla.                                
 6.Click on "Admin" button in front of mysql which will open php MyAdmin in the browser.
 
 7.Create a Database with the name "register_login_db".
