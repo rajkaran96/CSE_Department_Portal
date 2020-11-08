@@ -11,4 +11,6 @@ Download and Unzip the project folder and copy it.
 
 # Contributors
 
-Rajkaran Preet Singh- RA1711003010801                                                          Pranav Sharma -RA1711003010781
+Rajkaran Preet Singh- RA1711003010801 
+
+Pranav Sharma -RA1711003010781
